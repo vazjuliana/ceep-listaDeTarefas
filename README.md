@@ -1,1 +1,2 @@
-# 1823_DOM
+# Projeto Ceep - aula alura
+Cria uma lista de tarefas. 
